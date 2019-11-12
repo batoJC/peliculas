@@ -16,4 +16,7 @@ if ($conn) {
         echo "</tr>\n";
     }
     echo "</table>\n";
+
+    echo 'nuevo';
+
 }
